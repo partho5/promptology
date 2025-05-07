@@ -17,9 +17,9 @@ Select multiple short segmen ts (each a few seconds long), which together add up
 
 Focus on clips that include:
 
-Emotionally engaging or hook-worthy dialogue.
+- Emotionally engaging or hook-worthy dialogue.
 
-Moments where the speaker is smiling or visually expressive.
+- Moments where the speaker is smiling or visually expressive.
 
 Ensure the chosen segments can be edited together smoothly to create a cohesive and compelling Short.
 
