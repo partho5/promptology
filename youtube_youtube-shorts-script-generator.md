@@ -4,7 +4,7 @@ YouTube video → shorts script generator prompt
 
 👉 Enable "Reason" option in ChatGPT, (or select reasoning model other LLM), for better quality output
 
-👉 Don't forget to replace <TRANSCRIPT WITH TIMESTAMP>
+👉 Don't forget to replace < TRANSCRIPT WITH TIMESTAMP >
 
 ============ 👇 PROMPT 👇 ============
 
@@ -33,4 +33,4 @@ Make sure the total combined duration of all selected clips falls between 30 and
 
 here is the transcript:
 
-<TRANSCRIPT WITH TIMESTAMP>
+< TRANSCRIPT WITH TIMESTAMP >
