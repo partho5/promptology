@@ -1,4 +1,4 @@
-YouTube video → shorts script generator prompt
+# YouTube video → shorts script generator prompt
 
 👉 Generate YouTube transcript using a tool like: [notegpt](https://notegpt.io/youtube-transcript-generator)
 
